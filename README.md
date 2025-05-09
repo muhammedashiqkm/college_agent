@@ -225,7 +225,7 @@ Content-Type: application/json
       "text": "What are the admission requirements?"
     }]
   },
-  "streaming": true
+  "streaming": false
 }
 ```
 
